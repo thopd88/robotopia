@@ -5,7 +5,7 @@ npm run build
 mkdir dist
 cd dist
 git init
-git remote add origin https://github.com/robotopia-x/robotopia-x.github.io.git
+git remote add origin https://github.com/thopd88/robotopia.git
 cd ..
 
 cp index.html dist
